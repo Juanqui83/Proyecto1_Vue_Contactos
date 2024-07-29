@@ -1,0 +1,7 @@
+Practica Vue3
+Nombre:
+Juan Carlos Machaca
+Pasos para iniciar:
+1. npm install
+2. npm run serve
+3. npm install axios
